@@ -1,0 +1,13 @@
+org/example/createcustomer_wsdl/CreateCustomerEndpoint.class
+org/mycompany/CreateCustomerResponseProcessor.class
+org/mycompany/Application.class
+org/mycompany/CreateCustomerRestService.class
+org/mycompany/CreateCustomerRequestProcessor.class
+org/example/createcustomer_wsdl/ObjectFactory.class
+org/example/createcustomer_wsdl/CreateCustomerResponse.class
+org/mycompany/CustomerResponse.class
+org/mycompany/Customer.class
+org/example/createcustomer_wsdl/CreateCustomerServiceImpl.class
+org/example/createcustomer_wsdl/CreateCustomerRequest.class
+org/example/createcustomer_wsdl/package-info.class
+org/example/createcustomer_wsdl/CreateCustomerEndpointService.class
